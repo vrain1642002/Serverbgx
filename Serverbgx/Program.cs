@@ -7,7 +7,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-//fix
+//fix 2
 class Program
 {
     public static csdl_baigiuxeContext db = new csdl_baigiuxeContext();
